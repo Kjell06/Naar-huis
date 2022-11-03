@@ -1,6 +1,6 @@
 
 # Naar Huis
-
+dit zijn onze antwoorden
 ## Sjells antwoorden
 
 
@@ -8,7 +8,7 @@
 2. Ik wist eerst nog niks 
 3. Filezilla dat hebben we nog niet zo vaak gedaan 
 
-dit zijn onze antwoorden
+
  
 
 
