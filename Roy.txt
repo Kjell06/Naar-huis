@@ -1,5 +1,3 @@
-# Naar-huis
-
 1
 Github, Git, Filezilla, Markdown, Command propt
 
