@@ -4,17 +4,9 @@
 ## Sjells antwoorden
 
 
-1
-Github en filezilla
-
-
-2
-
-Ik wist eerst nog niks 
-
-
-3
-Filezilla dat hebben we nog niet zo vaak gedaan 
+1. Github en filezilla
+2. Ik wist eerst nog niks 
+3. Filezilla dat hebben we nog niet zo vaak gedaan 
 
 dit zijn onze antwoorden
  
@@ -27,8 +19,6 @@ dit zijn onze antwoorden
 
 
 ## Roy antwoorden
-1 Github, Git, Filezilla, Markdown, Command propt
-
-2 Beetje de command prompt en filezilla
-
-3 Filezilla
+1. Github, Git, Filezilla, Markdown, Command propt
+2. Beetje de command prompt en filezilla
+3. Filezilla
